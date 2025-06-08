@@ -1,6 +1,6 @@
 # 🔐 Browser Extension Security Audit (Firefox on Kali Linux)
 
-## 🎯 Objective
+##  Objective
 Identify and remove potentially harmful browser extensions by reviewing installed items in Firefox on Kali Linux.
 
 ## 🛠️ Tools Used
@@ -16,7 +16,7 @@ Identify and remove potentially harmful browser extensions by reviewing installe
 - No suspicious extensions found
 - Restarted Firefox and confirmed secure performance
 
-## 🧠 Key Takeaways
+##  Key Takeaways
 - FoxyProxy is safe and used with Burp Suite
 - Cookie-Editor is trusted and used for session analysis
 - Always audit browser extensions on pentesting machines
